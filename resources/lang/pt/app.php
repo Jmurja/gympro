@@ -1,0 +1,62 @@
+<?php
+
+return [
+    // General
+    'dashboard' => 'Painel de Controle',
+    'workout_logs' => 'Registros de Treino',
+    'repository' => 'Repositório',
+    'documentation' => 'Documentação',
+    'settings' => 'Configurações',
+    'log_out' => 'Sair',
+    'login' => 'Entrar',
+    'register' => 'Registrar',
+
+    // Dashboard
+    'welcome_to_gympro' => 'Bem-vindo ao GymPro',
+    'personal_fitness_platform' => 'Sua plataforma pessoal de acompanhamento fitness. Registre seus treinos, monitore seu progresso e alcance seus objetivos de condicionamento físico.',
+    'track_your_progress' => 'Acompanhe Seu Progresso',
+    'track_progress_desc' => 'Registre seus treinos e acompanhe seu progresso ao longo do tempo para ver suas melhorias.',
+    'stay_consistent' => 'Mantenha a Consistência',
+    'stay_consistent_desc' => 'Treinos regulares levam a melhores resultados. Use o GymPro para manter sua rotina.',
+    'achieve_your_goals' => 'Alcance Seus Objetivos',
+    'achieve_goals_desc' => 'Defina metas de condicionamento físico e use o GymPro para ajudá-lo a alcançá-las passo a passo.',
+
+    // Workout Log
+    'add_workout_log' => 'Adicionar Registro de Treino',
+    'edit_workout_log' => 'Editar Registro de Treino',
+    'record_workout_details' => 'Registre os detalhes do seu treino abaixo para acompanhar sua jornada fitness.',
+    'view_workout_history' => 'Visualize e gerencie seu histórico de treinos. Acompanhe seu progresso ao longo do tempo.',
+    'exercise_name' => 'Nome do Exercício',
+    'exercise_name_help' => 'Digite o nome do exercício (ex: Supino, Agachamento)',
+    'sets' => 'Séries',
+    'sets_help' => 'Número de séries realizadas',
+    'repetitions' => 'Repetições',
+    'repetitions_help' => 'Número de repetições por série',
+    'weight' => 'Peso (kg)',
+    'weight_help' => 'Peso utilizado para o exercício em quilogramas',
+    'rest_interval' => 'Intervalo de Descanso (segundos)',
+    'rest_interval_help' => 'Tempo de descanso entre séries em segundos',
+    'workout_date' => 'Data do Treino',
+    'workout_date_help' => 'Data em que o treino foi realizado',
+    'notes' => 'Observações',
+    'notes_help' => 'Observações adicionais, ajustes de técnica ou feedback de desempenho',
+    'save' => 'Salvar',
+    'update' => 'Atualizar',
+    'cancel' => 'Cancelar',
+    'exercise' => 'Exercício',
+    'reps' => 'Reps',
+    'rest' => 'Descanso',
+    'date' => 'Data',
+    'actions' => 'Ações',
+    'edit' => 'Editar',
+    'delete' => 'Excluir',
+    'delete_confirmation' => 'Tem certeza que deseja excluir este registro de treino?',
+    'no_workout_logs' => 'Nenhum registro de treino encontrado.',
+
+    // Welcome Page
+    'lets_get_started' => 'Vamos começar',
+    'laravel_ecosystem' => 'O Laravel tem um ecossistema incrivelmente rico. Sugerimos começar com o seguinte.',
+    'read_the' => 'Leia a',
+    'watch_tutorials' => 'Assista tutoriais em vídeo no',
+    'laracasts' => 'Laracasts',
+];

@@ -1,0 +1,62 @@
+<?php
+
+return [
+    // General
+    'dashboard' => 'Dashboard',
+    'workout_logs' => 'Workout Logs',
+    'repository' => 'Repository',
+    'documentation' => 'Documentation',
+    'settings' => 'Settings',
+    'log_out' => 'Log Out',
+    'login' => 'Log in',
+    'register' => 'Register',
+
+    // Dashboard
+    'welcome_to_gympro' => 'Welcome to GymPro',
+    'personal_fitness_platform' => 'Your personal fitness tracking platform. Keep track of your workouts, monitor your progress, and achieve your fitness goals.',
+    'track_your_progress' => 'Track Your Progress',
+    'track_progress_desc' => 'Log your workouts and track your progress over time to see your improvements.',
+    'stay_consistent' => 'Stay Consistent',
+    'stay_consistent_desc' => 'Regular workouts lead to better results. Use GymPro to maintain your routine.',
+    'achieve_your_goals' => 'Achieve Your Goals',
+    'achieve_goals_desc' => 'Set fitness goals and use GymPro to help you achieve them step by step.',
+
+    // Workout Log
+    'add_workout_log' => 'Add Workout Log',
+    'edit_workout_log' => 'Edit Workout Log',
+    'record_workout_details' => 'Record your workout details below to track your fitness journey.',
+    'view_workout_history' => 'View and manage your workout history. Track your progress over time.',
+    'exercise_name' => 'Exercise Name',
+    'exercise_name_help' => 'Enter the name of the exercise (e.g., Bench Press, Squats)',
+    'sets' => 'Sets',
+    'sets_help' => 'Number of sets performed',
+    'repetitions' => 'Repetitions',
+    'repetitions_help' => 'Number of repetitions per set',
+    'weight' => 'Weight (kg)',
+    'weight_help' => 'Weight used for the exercise in kilograms',
+    'rest_interval' => 'Rest Interval (seconds)',
+    'rest_interval_help' => 'Rest time between sets in seconds',
+    'workout_date' => 'Workout Date',
+    'workout_date_help' => 'Date when the workout was performed',
+    'notes' => 'Notes',
+    'notes_help' => 'Additional observations, technique adjustments, or performance feedback',
+    'save' => 'Save',
+    'update' => 'Update',
+    'cancel' => 'Cancel',
+    'exercise' => 'Exercise',
+    'reps' => 'Reps',
+    'rest' => 'Rest',
+    'date' => 'Date',
+    'actions' => 'Actions',
+    'edit' => 'Edit',
+    'delete' => 'Delete',
+    'delete_confirmation' => 'Are you sure you want to delete this workout log?',
+    'no_workout_logs' => 'No workout logs found.',
+
+    // Welcome Page
+    'lets_get_started' => 'Let\'s get started',
+    'laravel_ecosystem' => 'Laravel has an incredibly rich ecosystem. We suggest starting with the following.',
+    'read_the' => 'Read the',
+    'watch_tutorials' => 'Watch video tutorials at',
+    'laracasts' => 'Laracasts',
+];
